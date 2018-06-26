@@ -1,4 +1,4 @@
-# Library-ManageMent-System-In-C++
+# Bookshop-ManageMent-System-In-C++
 
 I have created this project for my **CSE107(Object Oriented programming)** course in **SPRING2015**
 
